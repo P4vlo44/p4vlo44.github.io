@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./GasApp 200.html",
+  "start_url": "./index.html",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
   "display": "standalone",
