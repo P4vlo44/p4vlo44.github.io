@@ -1,6 +1,6 @@
 const CACHE_NAME = 'gasapp-v1';
 const ASSETS = [
-  './GasApp 200.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
