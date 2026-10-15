@@ -1,0 +1,21 @@
+{
+  "short_name": "GasApp 200",
+  "name": "GasApp 200 - Calculadora de Gas",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./GasApp 200.html",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "display": "standalone",
+  "orientation": "portrait"
+}
