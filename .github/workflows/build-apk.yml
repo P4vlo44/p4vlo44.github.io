@@ -29,7 +29,7 @@ jobs:
 
       - name: Initialize and Build APK
         run: |
-          bubblewrap init --manifest=https://p4vlo44.github.io/manifest.json --directory=android-app
+          bubblewrap init --manifest=https://p4vlo44.github.io/manifest.json --directory=android-app --applicationId=com.p4vlo44.gasapp --name="GasApp 200"
           cd android-app
           bubblewrap build
 
